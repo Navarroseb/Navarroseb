@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navarroseb&show_icons=true&theme=dark&locale=en" alt="navarroseb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navarroseb&theme=dark" alt="navarroseb" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Navarroseb&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&stroke=B51DDD&border=9C0CDD&fire=DDB705)](https://git.io/streak-stats)
