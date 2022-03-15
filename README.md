@@ -30,7 +30,7 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarroseb&show_icons=true&theme=monokai&locale=en&layout=compact" alt="navarroseb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarroseb&show_icons=true&theme=monokai&locale=en&layout=10" alt="navarroseb" /></p>
 
 <br/>
 
