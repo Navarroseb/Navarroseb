@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" height="100 width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Navarroseb</h1>
 <h3 align="center">I'm New Fullstack developer and Old cook</h3>
 
