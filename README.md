@@ -26,10 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarroseb&show_icons=true&theme=monokai&locale=en&layout=compact" alt="navarroseb" /></p>
 
-<br/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navarroseb&show_icons=true&theme=monokai)
-
-<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Navarroseb&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&stroke=B51DDD&border=9C0CDD&fire=DDB705)](https://git.io/streak-stats)
