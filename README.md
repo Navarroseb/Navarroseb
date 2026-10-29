@@ -2,7 +2,7 @@
 
 **Incident Manager en banca · Desarrollador Full Stack · Formándome en ciberseguridad**
 
-Trabajo en la gestión de incidentes de la operación tecnológica de Banco Santander, a través de Stefanini. Mi trabajo es que cuando algo falla se detecte a tiempo, llegue al equipo correcto y se resuelva con el menor impacto posible.
+Trabajo en la gestión de incidentes de la operación tecnológica de Banco, Mi trabajo es que cuando algo falla se detecte a tiempo, llegue al equipo correcto y se resuelva con el menor impacto posible.
 
 También programo. Me formé como desarrollador Full Stack en 4Geeks Academy y Desafío Latam, fui mentor en 4Geeks, y hoy uso esa base para automatizar tareas y construir herramientas para la operación.
 
